@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em;
+    background-color: #21222A;
+}
+
+.brand-logo {
+    display: flex;
+}
+
+.brand-name {
+    color: #61DAFB;
+    font-size: 1.391rem;
+    font-weight: 700;
+}
+
+.brand-image {
+    width: 60px;
+}
+
+.brand-subtitle {
+    font-size: 1rem;
+    font-weight: 600;
+    color: #DEEBF8;
+}
